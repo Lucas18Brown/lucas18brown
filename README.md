@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate fullstack web developer from UK</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas18brown" alt="lucas18brown" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucas18browntheme=darkhub" alt="lucas18brown" /></a> </p>
 
 - 🔭 I’m currently working on [PxlSounds](http://www.pxlsounds.com)
 
