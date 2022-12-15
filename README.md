@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lucas20brown@hotmail.co.uk**
 
-- ⚡ I want to learn **React**
+- ⚡ I am learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
